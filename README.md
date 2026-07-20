@@ -20,10 +20,11 @@ This project analyzes Blinkit grocery sales data using Python to identify sales 
 - KPI Calculation
 - Sales Trend Analysis
 - Business Visualizations
-
+  
 ## Files
 
-- `Blinkit Analysis in Python.ipynb` – Jupyter notebook containing the complete analysis.
-- `blinkit_data.csv.xlsx` – Dataset used for the project.
+• Blinkit Analysis in Python.ipynb – Jupyter Notebook containing the complete analysis.
+
+• blinkit_data.csv.xlsx – Dataset used for the project.
 
 
