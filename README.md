@@ -24,6 +24,6 @@ This project analyzes Blinkit grocery sales data using Python to identify sales 
 ## Files
 
 - Blinkit_Sales_Analysis.ipynb
-- blinkit_data.csv
+- blinkit_data.csv.xlsx
 
 
